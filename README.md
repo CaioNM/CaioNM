@@ -1,7 +1,7 @@
 ### Opa, e aí? 👋
 
-- 🔭 Estou estagiando no Grupo Zago! 
-- 🌱 Atualmente estou aprendendo C#
+- 🔭 Atualmente estou estagiando no Grupo Zago! 🍀
+- 🌱 Estou aprendendo C#
 - 📫 Manda um e-mail pra mim! É caionunesdemoura@gmail.com
 
 <div align="center">

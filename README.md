@@ -1,7 +1,6 @@
 ### Opa, e aí? 👋
 
 - 🔭 Atualmente estou estagiando na PHL TI! 🖥️
-- 🌱 Estou aprendendo C#, JavaScript e GoLang
 - 📫 Manda um e-mail pra mim! É caionunesdemoura@gmail.com
 
 <div align="center">
